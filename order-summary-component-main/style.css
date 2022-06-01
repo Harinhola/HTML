@@ -25,6 +25,8 @@ font-family: "Red Hat Display" , sans-serif;
 .card{
     margin: 0 auto;
     align-items: center;
+    position: absolute;
+    border: 10px;
 }
 img{
  border-top: 10px;
